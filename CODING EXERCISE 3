@@ -12,3 +12,28 @@ public class extraCurricular {
 	}
 
 }
+
+extra exer declare variable
+
+package Exercise3;
+
+public class extraCurricular {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int alphabet, antarctica, parachute, speed ;
+		
+		alphabet=12;
+		antarctica=672;
+		parachute=1515;
+		speed=40;
+		
+		System.out.println("We present the following facts for your extracurricular edification : \n");
+		System.out.println("Letters in the Hawaiian alphabet : "+alphabet);
+		System.out.println("Dialling code for Antarctica : "+antarctica);
+		System.out.println("Year in which Leonardo da Vinci invented the parachute : "+parachute);
+		System.out.println("Speed of the ketchup : "+parachute+" km per year");
+	}
+
+}
+
